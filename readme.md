@@ -4,3 +4,5 @@
 [Sharp](https://business.sharpusa.com/Product-Downloads)
 
 [Lexmark](https://support.lexmark.com/en_us/drivers-downloads.html) 
+
+[HP](https://support.hp.com/us-en/drivers/printers)
