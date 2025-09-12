@@ -7,4 +7,6 @@
 
 [HP](https://support.hp.com/us-en/drivers/printers)
 
+[Canon](https://www.usa.canon.com/support/software-and-drivers)
+
 [MPS Monitor](https://portal.mpsmonitor.com)
