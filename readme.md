@@ -9,4 +9,6 @@
 
 [Canon](https://www.usa.canon.com/support/software-and-drivers)
 
+[Ricoh](https://www.ricoh-usa.com/en/support-and-download)
+
 [MPS Monitor](https://portal.mpsmonitor.com)
